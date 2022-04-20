@@ -1,2 +1,2 @@
 x,y=int(input()),int(input())
-print(x+y)
+print("Addition of",x,'and',y,":",x+y)
